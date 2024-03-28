@@ -1,8 +1,5 @@
 # Zahra Abassi - Data Analysis Portfolio
 
-## **Under Construction :)**
-Absolutely, here's an adjusted introduction that incorporates your portfolio's structure:
-
 **Hi, I'm Zahra!**
 
 I'm a data engineer with a software engineering degree, specializing in Business Intelligence (BI) and data analytics. My journey into the world of data began in 2019 with a data bootcamp, igniting my fascination with its potential to unlock valuable insights.
