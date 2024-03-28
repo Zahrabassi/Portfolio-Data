@@ -44,7 +44,7 @@ Table of Contents
 
 
 
-## **Portfolio Projects : **
+## **Portfolio Projects :**
 
 ## **Dashboards**
 
