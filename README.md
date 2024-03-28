@@ -37,9 +37,12 @@ Table of Contents
 
 ## **Table of Contents**
 
-* [About](#about)
-* [Portfolio Projects](#portfolio-projects)
-    * Dashboards & BI: [#dashboards-bi](## Dashboards)  * Machine Learning Algorithms: [#machine-learning-algorithms](## Machine Learning Algorithms)
+- [About](#about)
+- [Porfolio Projects](#portfolio-projects)
+   * [Dashboards & BI:](#Dashboards)
+
+
+
 
 ## **Portfolio Projects**
 
