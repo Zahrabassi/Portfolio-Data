@@ -1,5 +1,7 @@
 # Zahra Abassi - Data Analysis Portfolio
 
+## **About**
+
 **Hi, I'm Zahra!**
 
 I'm a data engineer with a software engineering degree, specializing in Business Intelligence (BI) and data analytics. My journey into the world of data began in 2019 with a data bootcamp, igniting my fascination with its potential to unlock valuable insights.
@@ -33,6 +35,17 @@ This repository serves as a platform to showcase my data engineering skills, sha
 I'm eager to collaborate and contribute my data expertise to solve real-world challenges. Feel free to reach out and connect with me!
 Table of Contents
 
-About: #about * Portfolio Projects: #portfolio-projects
-Dashboards & BI: #dashboards-bi
-Machine Learning Algorithms: #machine-learning-algorithms
+## **Table of Contents**
+
+- [About](#about)
+- [Porfolio Projects](#portfolio-projects)
+  * Dashboards & BI: #dashboards-bi
+  * Machine Learning Algorithms: #machine-learning-algorithms
+
+
+
+
+
+## **Portfolio Projects - dashboards-bi**
+
+
