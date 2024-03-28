@@ -31,5 +31,8 @@ This repository serves as a platform to showcase my data engineering skills, sha
 **Let's Connect!**
 
 I'm eager to collaborate and contribute my data expertise to solve real-world challenges. Feel free to reach out and connect with me!
+Table of Contents
 
-This revised introduction highlights both the data dashboard and machine learning aspects of your portfolio. It also emphasizes your ability to leverage data for both visualization and predictive modeling.
+About: #about * Portfolio Projects: #portfolio-projects
+Dashboards & BI: #dashboards-bi
+Machine Learning Algorithms: #machine-learning-algorithms
