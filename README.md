@@ -38,8 +38,7 @@ Table of Contents
 ## **Table of Contents**
 
 - [About](#about)
-- [Porfolio Projects](#portfolio-projects)
-   * [Dashboards & BI:](#Dashboards)
+- [Dashboards & BI:](#Dashboards)
 
 
 
