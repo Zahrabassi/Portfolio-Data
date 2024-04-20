@@ -25,7 +25,7 @@ I'm passionate about empowering organizations with a holistic approach to data. 
 **Let's Connect!**
 
 I'm eager to collaborate and contribute my data expertise to solve real-world challenges. Feel free to reach out and connect with me!
-## Contacts
+
 - LinkedIn: [@ZahraAbassi](https://www.linkedin.com/in/zahra-abassi/)
 - Email: zahra.abassi09@gmail.com
   
