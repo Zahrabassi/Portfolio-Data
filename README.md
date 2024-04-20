@@ -22,14 +22,6 @@ I'm passionate about empowering organizations with a holistic approach to data. 
 * Delve into various machine learning algorithms I've implemented to solve specific business challenges.
 * See how I translate data into powerful models that uncover patterns, predict future trends, and optimize processes.
 
-**This Portfolio: A Look into My Data Expertise**
-
-This repository serves as a platform to showcase my data engineering skills, share my projects, and track my progress in the field of data analytics. As you explore, you'll gain insights into my:
-
-* **Technical capabilities:** Discover my proficiency in data modeling, machine learning algorithms, data visualization tools, and data pipeline development.
-* **Problem-solving approach:** Witness how I translate complex business needs into practical data solutions.
-* **Passion for learning:** See my ongoing journey as I continuously expand my knowledge and explore new data-focused tools and techniques.
-
 **Let's Connect!**
 
 I'm eager to collaborate and contribute my data expertise to solve real-world challenges. Feel free to reach out and connect with me!
@@ -46,5 +38,12 @@ Table of Contents
 ## **Portfolio Projects :**
 
 ## **Dashboards**
+
+# Spotify/Netflix/Disney Analysis
+
+This project dives into exploring user behavior on popular streaming platforms, using a combination of data from Spotify, Disney and Netflix. The compiled dataset incorporates information on movies, shows, songs, artists, and user preferences, allowing for in-depth analysis of streaming trends. By visualizing various data points, this dashboard aims to uncover insights such as popular genres, viewing habits, artist popularity across platforms, and potential correlations between music and video streaming choices
+
+
+
 
 
