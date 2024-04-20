@@ -39,9 +39,9 @@ Table of Contents
 
 ## **Dashboards**
 
-# Spotify/Netflix/Disney Analysis
+# Spotify/Netflix/Amazon Analysis
 
-This project dives into exploring user behavior on popular streaming platforms, using a combination of data from Spotify, Disney and Netflix. The compiled dataset incorporates information on movies, shows, songs, artists, and user preferences, allowing for in-depth analysis of streaming trends. By visualizing various data points, this dashboard aims to uncover insights such as popular genres, viewing habits, artist popularity across platforms, and potential correlations between music and video streaming choices
+This project dives into exploring user behavior on popular streaming platforms, using a combination of data from Spotify, Amazon and Netflix. The compiled dataset incorporates information on movies, shows, songs, artists, and user preferences, allowing for in-depth analysis of streaming trends. By visualizing various data points, this dashboard aims to uncover insights such as popular genres, viewing habits, artist popularity across platforms, and potential correlations between music and video streaming choices
   * [Download The Entertainment Command Center](https://github.com/Zahrabassi/Portfolio-Data/blob/main/The%20Entertainment%20Command%20Center.pbix)
 
 
