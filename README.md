@@ -42,6 +42,9 @@ Table of Contents
 # Spotify/Netflix/Amazon Analysis
 
 This project dives into exploring user behavior on popular streaming platforms, using a combination of data from Spotify, Amazon and Netflix. The compiled dataset incorporates information on movies, shows, songs, artists, and user preferences, allowing for in-depth analysis of streaming trends. By visualizing various data points, this dashboard aims to uncover insights such as popular genres, viewing habits, artist popularity across platforms, and potential correlations between music and video streaming choices
+![spotify](https://github.com/Zahrabassi/Portfolio-Data/assets/47666508/4cb81897-c3ca-4dac-88d6-af4a6df4d3d7)
+![netflix](https://github.com/Zahrabassi/Portfolio-Data/assets/47666508/df40528e-8d98-4336-aafb-9078a566e8ae)
+![Amazon](https://github.com/Zahrabassi/Portfolio-Data/assets/47666508/618f29ac-8d34-4c9d-a1fb-fad32b7d0486)
   * [Download The Entertainment Command Center](https://github.com/Zahrabassi/Portfolio-Data/blob/main/The%20Entertainment%20Command%20Center.pbix)
 
 
