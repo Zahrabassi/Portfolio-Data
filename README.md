@@ -28,13 +28,11 @@ I'm eager to collaborate and contribute my data expertise to solve real-world ch
 ## Contacts
 - LinkedIn: [@ZahraAbassi](https://www.linkedin.com/in/zahra-abassi/)
 - Email: zahra.abassi09@gmail.com
-- 
+  
 ## **Table of Contents**
 
 - [About](#about)
 - [Dashboards & BI:](#Dashboards)
-
-
 
 
 ## **Portfolio Projects :**
