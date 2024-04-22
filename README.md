@@ -32,7 +32,7 @@ I'm eager to collaborate and contribute my data expertise to solve real-world ch
 ## **Table of Contents**
 
 - [About](#about)
-- [Dashboards & BI:](#Dashboards)
+- [Dashboards:](#Dashboards)
 
 
 ## **Portfolio Projects :**
@@ -96,3 +96,20 @@ This HR analysis dashboard presents insights gleaned from a survey of employees,
 </div>
 
   * [Download The HR Dashboard](https://github.com/Zahrabassi/Portfolio-Data/blob/main/HR_Analysis.pbix)
+
+
+## **Machine Learning / Data Mining**
+
+# Personality Analysis
+
+This customer personality analysis algorithm is a powerful machine learning solution designed to decipher and understand the nuanced characteristics and preferences of individual customers.By employing sophisticated algorithms, the system can identify patterns, correlations, and trends within the data, enabling businesses to tailor personalized experiences, targeted marketing campaigns, and product recommendations. With its ability to unlock valuable insights into customer personas, preferences, and motivations, the algorithm empowers businesses to enhance customer satisfaction, loyalty, and engagement, ultimately driving business growth and success
+
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18_NrYc91yuDdVdC-yPmXTXT8mgCGjWjQ)
+
+
+
+
+
+
+
+
