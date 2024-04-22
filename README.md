@@ -70,6 +70,23 @@ This project is based on a comprehensive survey of data professionals worldwide,
 
   * [Download The Data Professionals Dashboard](https://github.com/Zahrabassi/Portfolio-Data/blob/main/Data%20Professional%20Survey.pbix)
 
+
+# NBA Analysis
+
+This NBA dashboard showcases a comprehensive network analysis using official NBA data spanning from 1997 onwards. By leveraging data sourced directly from the NBA's official website, the dashboard offers insights into player interactions, team dynamics, and game statistics. Users can explore player connections, team collaborations, and trends in performance over time
+
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/Zahrabassi/Portfolio-Data/assets/47666508/32a49855-bb0e-4121-a0cd-5a0dfd00a2c2" alt="image1" style="width: 150px; height: auto; margin-right: 10px; margin-bottom: 10px;">
+    <img src="https://github.com/Zahrabassi/Portfolio-Data/assets/47666508/7bf83505-dda9-4d27-91a4-625d9f1bdcfc" alt="image2" style="width: 150px; height: auto; margin-right: 10px; margin-bottom: 10px;">
+    <img src="https://github.com/Zahrabassi/Portfolio-Data/assets/47666508/5677e48f-724a-41d4-a3c2-bee2df5eb80b" alt="image3" style="width: 150px; height: auto; margin-right: 10px; margin-bottom: 10px;">
+    <img src="https://github.com/Zahrabassi/Portfolio-Data/assets/47666508/45694bc0-a9f1-480d-bd47-d872e63a7506" alt="image4" style="width: 150px; height: auto; margin-right: 10px; margin-bottom: 10px;">
+    <img src="https://github.com/Zahrabassi/Portfolio-Data/assets/47666508/9d7b9ec5-0404-4978-aae4-3a64bafa4fc1" alt="image5" style="width: 150px; height: auto; margin-right: 10px; margin-bottom: 10px;">
+    <img src="https://github.com/Zahrabassi/Portfolio-Data/assets/47666508/d7381de5-8e96-4972-bc07-4ba82f359e27" alt="image6" style="width: 150px; height: auto; margin-right: 10px; margin-bottom: 10px;">
+</div>
+
+
+  * [Download The NBA Dashboard](https://github.com/Zahrabassi/Portfolio-Data/blob/main/nba.pbix)
+
 # HR Analysis
 
 This HR analysis dashboard presents insights gleaned from a survey of employees, categorized by contract type—temporary and permanent. It examines demographics like age and departmental distribution, as well as factors such as work-life balance and job satisfaction. By comparing data between contract types, the dashboard aims to identify trends and disparities, informing targeted HR strategies for talent management and retention
