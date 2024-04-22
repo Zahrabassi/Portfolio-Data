@@ -58,6 +58,8 @@ The IMDb data analysis project features a dashboard divided into two pages: **An
     <img src="https://github.com/Zahrabassi/Portfolio-Data/assets/47666508/90d727a8-6f87-4965-a0b9-612bf89c10df" alt="Exporation" style="width: 200px; height: auto; margin-right: 20px;">
 </div>
 
+  * [Download The IMDb Dashboard](https://github.com/Zahrabassi/Portfolio-Data/blob/main/IMDb.pbix)
+
 # Data Professionals Job Survey Analysis
 
 This project is based on a comprehensive survey of data professionals worldwide, gathering hundreds of responses on demographics, career aspects, and programming preferences. Despite assumptions, the analysis reveals gender parity in average salaries and challenges common beliefs regarding the impact of age and education on salary growth...
