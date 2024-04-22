@@ -50,6 +50,19 @@ This project dives into exploring user behavior on popular streaming platforms, 
 
   * [Download The Entertainment Command Center](https://github.com/Zahrabassi/Portfolio-Data/blob/main/The%20Entertainment%20Command%20Center.pbix)
 
+# IMDb Analysis
+
+The IMDb data analysis project features a dashboard divided into two pages: **Analysis** and **Exploration**. The Analysis page focuses on quantitative metrics such as the number of releases each year, rating distribution, and voting patterns, providing insights into trends and patterns over time. Meanwhile, the Exploration page offers qualitative insights into geographical patterns, top-rated titles, and popular genres, allowing for a deeper understanding of user preferences and content trends. Together, these pages offer a comprehensive view of IMDb data, enabling strategic decision-making and informed content strategies for content creators, producers, and streaming platforms in the dynamic landscape of movies and TV shows
+
+<div style="display: flex;">
+    <img src="![image](https://github.com/Zahrabassi/Portfolio-Data/assets/47666508/7c11cb75-76ca-41a5-8b82-c4d016bb5b67)
+" alt="spotify" style="width: 200px; height: auto; margin-right: 20px;">
+    <img src="![image](https://github.com/Zahrabassi/Portfolio-Data/assets/47666508/b8c634e1-6e5c-4ea1-9d21-629aeef7ac8f)
+" alt="netflix" style="width: 200px; height: auto; margin-right: 20px;">
+</div>
+
+  * [Download The IMDb Dashboard](https://github.com/Zahrabassi/Portfolio-Data/blob/main/IMDb.pbix)
+
 
 
 
