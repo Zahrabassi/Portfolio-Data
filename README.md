@@ -70,7 +70,12 @@ This project is based on a comprehensive survey of data professionals worldwide,
 
   * [Download The Data Professionals Dashboard](https://github.com/Zahrabassi/Portfolio-Data/blob/main/Data%20Professional%20Survey.pbix)
 
+# HR Analysis
 
+This HR analysis dashboard presents insights gleaned from a survey of employees, categorized by contract type—temporary and permanent. It examines demographics like age and departmental distribution, as well as factors such as work-life balance and job satisfaction. By comparing data between contract types, the dashboard aims to identify trends and disparities, informing targeted HR strategies for talent management and retention
 
+<div style="display: flex;">
+    <img src="https://github.com/Zahrabassi/Portfolio-Data/assets/47666508/d08ff8b2-30cd-4c66-a805-25ba56ae17ec" style="width: 200px; height: auto; margin-right: 20px;">
+</div>
 
-
+  * [Download The HR Dashboard](https://github.com/Zahrabassi/Portfolio-Data/blob/main/HR_Analysis.pbix)
